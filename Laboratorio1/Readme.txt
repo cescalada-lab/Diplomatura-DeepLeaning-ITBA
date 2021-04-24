@@ -1,1 +1,1 @@
-Laboratorio N°1: Resolucuión del Problema Monty Hall
+Laboratorio N°1: Resolución del Problema Monty Hall
