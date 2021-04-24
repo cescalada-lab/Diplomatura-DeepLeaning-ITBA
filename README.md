@@ -1,2 +1,2 @@
 # Diplomatura-DeepLearning-ITBA
-Trabajos Prácticos y Proyectos de la cursada
+Repositorio de Trabajos Prácticos y Proyectos Integradores de la cursada
