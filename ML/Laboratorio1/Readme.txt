@@ -1,5 +1,6 @@
 Laboratorio N°1: Machine Learning
 
+
 Este Laboratorio tiene por objetivo Hacer un análisis exploratorio exhaustivo de 2 dataset: elipse_data() y gaussians_distributions()
 
 Y modelizar estos datos con QuadraticDiscriminantAnalysis , GaussianNB y LogisticRegression y comparar resultados, 
