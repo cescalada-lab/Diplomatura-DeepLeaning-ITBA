@@ -1,4 +1,3 @@
-
 En esta carpeta descargue los archivos train.csv y test.csv
 
 Los mismos se encuentran en el siguiente link:
