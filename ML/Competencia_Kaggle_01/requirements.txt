@@ -1,0 +1,7 @@
+python == '3.8.8'
+keras == '2.4.3'
+numpy == '1.19.5'
+pandas == '1.2.3'
+kaggle == '1.5.12'
+matplotlib == '3.3.4'
+
