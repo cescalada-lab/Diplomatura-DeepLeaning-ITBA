@@ -1,0 +1,7 @@
+python == '3.7.9'
+tensorflow == '2.6.0'
+keras == '2.6.0'
+numpy == '1.19.5'
+pandas == '1.1.5'
+PIL == '7.1.2'
+matplotlib == '3.2.2'
