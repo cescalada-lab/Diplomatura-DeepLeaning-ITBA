@@ -1,0 +1,5 @@
+numpy == '1.19.5'
+matplotlib == '3.3.4'
+Python == '3.8.8'
+sklearn == '0.22.2.post1'
+nltk == '3.2.5'
